@@ -1,4 +1,4 @@
-package Homework_1_and_2;
+package Homework_2;
 /*
 Четные и нечетные символы разделить по разным строкам
  */

@@ -1,4 +1,4 @@
-package Homework_1_and_2;
+package Homework_2;
 
 /*
 Подсчет количества слов в строке

@@ -1,4 +1,4 @@
-package Homework_1_and_2;
+package Homework_2;
 
 /*
 Является ли строка палиндром?
@@ -9,7 +9,7 @@ public class Homework2_13 {
 
         aString.toLowerCase();
 
-        if (isPalindrome(aString) == true){
+        if (isPalindrome(aString)){
             System.out.println(aString + " is a palindrome");
         } else{
             System.out.println(aString + " is not a palindrome");

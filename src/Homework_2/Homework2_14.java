@@ -1,6 +1,4 @@
-package Homework_1_and_2;
-
-import java.util.Arrays;
+package Homework_2;
 
 /*
 Замена подстроки в строке

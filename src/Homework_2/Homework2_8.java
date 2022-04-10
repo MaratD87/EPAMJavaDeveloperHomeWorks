@@ -1,4 +1,4 @@
-package Homework_1_and_2;
+package Homework_2;
 
 import java.util.Arrays;
 import java.util.Comparator;
